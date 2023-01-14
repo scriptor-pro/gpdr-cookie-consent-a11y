@@ -1,0 +1,1 @@
+# gpdr-cookie-consent-a11y
